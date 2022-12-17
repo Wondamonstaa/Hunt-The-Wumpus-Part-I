@@ -27,7 +27,6 @@ int incrementor;
 
 bool playerAlive, wumpusAlive;
 
-
 //Done => manually initialized array in ascending order
 const static int wumpusMaze[20][4] = {
     {1, 2, 5, 8}, {2, 1, 3, 10}, {3, 2, 4, 12}, {4, 3, 5, 14}, {5, 1, 4, 6},
